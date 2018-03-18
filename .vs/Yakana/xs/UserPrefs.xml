@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{D08805C6-EC7E-42FB-BF7B-EE0DF1306B74}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Yakana/ViewModels/ItemsViewModel.cs">
+    <Files>
+      <File FileName="Yakana/Views/ItemsPage.xaml.cs" Line="6" Column="19" />
+      <File FileName="Yakana/ViewModels/ItemsViewModel.cs" Line="12" Column="58" />
+      <File FileName="Yakana/App.xaml.cs" Line="27" Column="2" />
+      <File FileName="Yakana/App.xaml" Line="19" Column="1" />
+      <File FileName="Yakana/ViewModels/BaseViewModel.cs" Line="35" Column="28" />
+      <File FileName="Yakana/Views/MainPage.cs" Line="23" Column="28" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Yakana.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D1F90DB7-9131-45EE-B3C4-F9BF836891E2" />
+  <MonoDevelop.Ide.ItemProperties.Yakana.Droid PreferredExecutionTarget="Android.74d4a0ef" />
+  <MultiItemStartupConfigurations />
+</Properties>
